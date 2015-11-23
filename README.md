@@ -5,7 +5,7 @@
 
 > 数据库各表说明
 
-- change 机会表
+- t_change 机会表
 - t_account 账号表
 - t_customer 客户表与客户公司表
 - t_dept 部门表
