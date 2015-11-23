@@ -1,0 +1,164 @@
+.content{
+    width: 651px;
+    
+}
+
+.row-fluid ["span"] {
+  display: inline-block;
+  width: 2%;
+  min-height: 30px;
+  margin-left: 2.127659574468085%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.spanBtn {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  background-color: #555;
+  display: inline-block;
+}
+
+.spandoBtn{
+	width:20px;
+	height:20px; 
+	cursor:pointer;
+	background-color:#555;
+	display:inline-block;
+}
+
+.spanBtn{
+	width:20px;
+	height:20px; 
+	cursor:pointer;
+	background-color:#555;
+	display:inline-block;
+}
+ 
+ .divHeight{
+ 	height:30px;
+ 	background-color:#999;
+ }
+   
+.udMargin{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.forgetwarpper{
+	width:220px;
+	margin:120px auto 0px auto;
+}
+
+.loginwarpper{
+	width:600px;
+	margin:10px auto 0px auto;
+}
+
+.centerSpan{
+	display:inline-block;
+	margin:10px auto 10px auto;
+}
+
+.leftMargin{
+	margin-left:20px;
+}
+
+.rightMargin{
+	margin-right:20px;
+}
+
+.leftMargin120{
+	margin-left:120px;
+}
+
+.errorSpan{
+	color:#f00;
+	font-size:13px;
+}
+
+body{
+	margin:0px;
+}
+
+.widthMenu{
+	width:25px;
+}
+
+.widthSize600{
+	width:600px;
+}
+
+.size500{
+	width:500px;
+	height:150px;
+}
+
+.box h3{
+	background-color:#D3DBFF;
+}
+
+.box .timeline {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+  display: block;
+}
+
+.box .type {
+  margin:2px 0px 2px 0px;
+  background: none repeat scroll 0 0 #334E7D;
+  color: #fff;
+  padding: 2px;
+}
+
+.box .task {
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-bottom: 5px;
+}
+
+.pagebody .pagerheader {
+  padding: 15px 30px;
+  background-color: #F0F5F8;
+  border-bottom: 1px solid #DADEE5;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  font-size: 16px;
+  position: relative;
+}
+
+.pagebody td {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 0px;
+  border-bottom: 1px solid #EFEFEF;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #666;
+  padding-left: 0px;
+}
+
+.type{
+	width:10em;
+	
+}
+
+.type .event {
+	font-size:20px;
+	color:#ffffff;
+	width:10em;
+	height:20em;
+ 	background: none repeat scroll 0 0 #334E7D;
+}
+
+.pagerbody span {
+  color: #fff;
+  display: block;
+  padding: 5px;
+  font-size: 12px;
+  text-align: center;
+}

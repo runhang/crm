@@ -1,0 +1,12 @@
+
+.logoimg{
+	margin:0px;
+	padding:0px;
+	background:url("/static/img/logo.png");
+	background-repeat:no-repeat;
+	margin-top : 0px;
+	width:200px;
+	height:40px;
+	background-position: center;
+	
+}
